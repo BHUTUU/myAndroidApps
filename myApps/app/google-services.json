@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10617980202",
+    "project_id": "bhutuu-61c2f",
+    "storage_bucket": "bhutuu-61c2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10617980202:android:8c71f0f93a97b13be2ca53",
+        "android_client_info": {
+          "package_name": "io.github.bhutuu.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10617980202-mrntm7p69ihvc8imejpnh7ch50tnhnvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc8-ewqc1hUfw3w5GlPMeXlNGzHratiBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10617980202-mrntm7p69ihvc8imejpnh7ch50tnhnvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
